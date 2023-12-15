@@ -1,8 +1,6 @@
 # Marvel-Heroes-Network-Analysis
-Let's explore the six degrees connnection between Marvel superheroes using graph theory and network analysis!
-
-
-Explore the connections between Marvel superheroes using graph theory and network analysis. This Rust-based project cleans, loads, and analyzes the dataset to uncover insights about the connections within the Marvel universe.
+Let's explore the six degrees connnection between Marvel superheroes using graph theory and a six degrees of separation network analysis!
+This Rust-based project cleans, loads, and analyzes the dataset to uncover insights about the connections within the Marvel universe.
 
 
 ## Overview
